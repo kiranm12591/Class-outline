@@ -1,0 +1,7 @@
+--->  Shell
+--->  Echo
+--->  PATH
+--->  Parent & Child shell
+--->  Alias
+--->  .Exrc
+

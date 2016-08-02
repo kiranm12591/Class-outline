@@ -1,0 +1,10 @@
+---> syntax
+---> symantics
+---> Python uses
+---> Kernel - done in c
+---> Competitor to c RUST
+---> C is dangerous
+---> Python used for network Operations
+---> Python is slow
+---> python2  vs python3
+---> Static vs Dynamic 
